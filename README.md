@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Gond
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Django , React , Data Science, AI, ML, Android.
+- 🌱 I’m currently learning Django , React , Data Science, AI, ML,Flutter, Android.
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me my email : ankitgond001@gmail.com
 
